@@ -11,7 +11,7 @@
     /* changes on tablet */
     padding: 0 1rem;
     padding-bottom: 6.25rem;
-    position: relative;
+    
     z-index: 1;
     /* prevents overflow from the lines extending past the screen width */
     overflow: hidden;
@@ -58,7 +58,7 @@
     /* 144px - 280px - leaving extra space for the navigation */
     /* changes on tablet */
     padding: clamp(9em, 25.95vw, 17.5em) 0;
-    position: relative;
+ 
   }
   #hero .cs-container:before {
     /* Left Line */
@@ -215,7 +215,7 @@
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.05);
     border-top: 0.375em solid var(--primary);
     border-radius: 0.3125em;
-    position: relative;
+
     z-index: 100;
   }
   .services .card {

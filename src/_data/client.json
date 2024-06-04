@@ -1,15 +1,13 @@
 {
     "name": "Affordable Auto AZ",
-    "email": "help@codestitch.app",
-    "phoneForTel": "555-779-4407",
-    "phoneFormatted": "(555) 779-4407",
+    "email": "affordable.auto66@gmail.com",
+    "phoneForTel": "480-332-3300",
+    "phoneFormatted": "(480) 332-3300",
     "address": {
-        "lineOne": "First Address Line",
-        "lineTwo": "Second Address Line",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80206",
+        "city": "Scottsdale",
+        "state": "AZ",
+        "zip": "85260",
         "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
     },
-    "domain": "https://www.codestitch.app"
+    "domain": "https://www..affordableautoAZ.com"
 }
